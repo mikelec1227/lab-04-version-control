@@ -115,7 +115,9 @@ env
 
 Write down the last two lines of output for this command
 ----------
-
+ISPLAY=/private/tmp/com.apple.launchd.4aweZubH08/org.macosforge.xquartz:0
+_=/usr/bin/env
+OLDPWD=/Users/student/mlecolant
 
 ==========
 16. Set your PATH to include your home directory.  Do the following (substituting student or username for professor)
@@ -128,7 +130,7 @@ echo $PATH
 
 Write down the output of the last command.  It should include your home folder.
 ----------
-
+/opt/local/bin:/Applications/anaconda/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Users/student
 
 ==========
 17.  Go back to root (/)
@@ -140,7 +142,7 @@ hello.sh
 It should work now!  What is the output?
 ----------
 
-
+hi there!
 ==========
 18.  Save this file in the repository that you created from parts 1 and 2.
 
